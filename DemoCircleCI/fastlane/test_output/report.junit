@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuites tests='3' failures='0'>
+  <testsuite name='DemoCircleCITests' tests='2' failures='0'>
+    <testcase classname='DemoCircleCITests' name='testExample' time='0.000'/>
+    <testcase classname='DemoCircleCITests' name='testPerformanceExample' time='0.342'/>
+  </testsuite>
+  <testsuite name='DemoCircleCIUITests' tests='1' failures='0'>
+    <testcase classname='DemoCircleCIUITests' name='testExample' time='3.396'/>
+  </testsuite>
+</testsuites>
