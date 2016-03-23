@@ -1,4 +1,8 @@
 machine:
+  ruby:
+    version: rbx-2.2.6
+  xcode:
+    version: "7.3"
   environment:
     XCODE_SCHEME: soiral
     XCODE_WORKSPACE: soiral.xcworkspace
