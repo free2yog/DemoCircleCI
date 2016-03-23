@@ -1,6 +1,4 @@
 machine:
-  ruby:
-    version: rbx-2.2.2
   xcode:
     version: "7.3"
   environment:
